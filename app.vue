@@ -1,5 +1,6 @@
 <template>
   <div>
+    Wellcome into branch
     <NuxtWelcome />
   </div>
 </template>
